@@ -7,7 +7,7 @@ This repository consists of a set of gymnasium "environments" which are essentia
 
 ## Downloading data files
 Before you begin the installation process, you will need to download the `data` folder containing the simulation assets and place it in the right place:
-1) Download the data files [here](https://gmuedu-my.sharepoint.com/:f:/r/personal/txu25_gmu_edu/Documents/data?csf=1&web=1&e=BdSEtA), unzip if necessary, you should obtain a folder named `data`.
+1) Download the data files [here](https://drive.google.com/file/d/1SFMkNoZoMng2X1QL345MueWdwm-zwDxM/view?usp=sharing), unzip if necessary, you should obtain a folder named `data`.
 2) Copy the data to `DIR_OF_REPO/gym-chrono/envs`.
 
 #### Adding Chrono data directory to path
