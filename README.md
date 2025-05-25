@@ -28,7 +28,7 @@ For Windows users:
 
 ## Installing dependencies
 ### Installing pychrono
-1) First you need to install pychrono from source. The Chrono source that needs to be cloned is linked [here](https://github.com/xutong05/chrono/tree/feature/robot_model). Please use the feature/robot_model branch. We use this fork with this branch because it contains all the latest robot models that are not currently available in Chrono main.
+1) First you need to install pychrono from source. The Chrono source that needs to be cloned is linked [here](https://github.com/zzhou292/chrono/tree/feature/robot_model). Please use the feature/robot_model branch. We use this fork with this branch because it contains all the latest robot models that are not currently available in Chrono main.
 2) Once you have the source cloned, build pychrono from source using instructions found (1)[Install PyChrono B](https://api.projectchrono.org/pychrono_installation.html). (2)[Install Modules](https://api.projectchrono.org/install_guides.html). Enable modules Chrono::Sensor, Chrono::Irrlicht, Chrono::SynChrono, Chrono::Vehicle, Chrono::Python, Chrono::OPENMP and Chrono::Parsers. For each of these modules, please look at the official Chrono documentation.
 3) Make sure you add the appropriate numpy include directory (see linked instructions above)
 4) If you are not doing a system wide install of pychrono, make sure you add to PYTHONPATH the path to the installed python libraries (see linked instructions above)
