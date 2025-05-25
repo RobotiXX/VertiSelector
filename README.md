@@ -1,4 +1,4 @@
-# gym-chrono
+# VertiSelector
 
 This repository consists of a set of gymnasium "environments" which are essentially wrappers around pychrono. In order to install gym-chrono, we must first install its dependecies
 1) [pychrono](https://api.projectchrono.org/pychrono_installation.html)
